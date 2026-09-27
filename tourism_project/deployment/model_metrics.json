@@ -1,0 +1,20 @@
+{
+  "best_params": {
+    "colsample_bytree": 0.6,
+    "learning_rate": 0.1,
+    "max_depth": 7,
+    "n_estimators": 200,
+    "reg_lambda": 1
+  },
+  "threshold": 0.5,
+  "train_accuracy": 1.0,
+  "train_precision": 1.0,
+  "train_recall": 1.0,
+  "train_f1": 1.0,
+  "train_roc_auc": 1.0,
+  "test_accuracy": 0.939,
+  "test_precision": 0.8681,
+  "test_recall": 0.8065,
+  "test_f1": 0.8361,
+  "test_roc_auc": 0.9599
+}
